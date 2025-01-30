@@ -1,4 +1,4 @@
-Locales['it'] = {
+return {
 	--- CCTV Strings ------
 
 	["take_picture"] = "Scatta foto",

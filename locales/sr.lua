@@ -1,4 +1,4 @@
-Locales['sr'] = {
+return {
 	--- CCTV Strings ------
 
 	["take_picture"] = "Uslikaj",
